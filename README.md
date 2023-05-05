@@ -6,9 +6,9 @@ můžeme pushnout soubory i bez přilogování na github? <br>
 vypadá to, že ano <br>
 ale používáme ssh: <br>
 
-$ git remote -v
-origin  ssh://git@github.com/erik-stormy/push_test.git (fetch)
-origin  ssh://git@github.com/erik-stormy/push_test.git (push)
+    $ git remote -v
+    origin  ssh://git@github.com/erik-stormy/push_test.git (fetch)
+    origin  ssh://git@github.com/erik-stormy/push_test.git (push)
 
 A možná hraje roli to, že naše knihovna je public.
 

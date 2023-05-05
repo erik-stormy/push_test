@@ -13,3 +13,13 @@ ale používáme ssh: <br>
 A možná hraje roli to, že naše knihovna je public.
 
 (stačí napsat git push, potom, co uděláme commit lokálně)
+
+obráceně při úpravách na githubu, aktualizujeme repo lokální:
+
+	git fetch origin
+	git merge origin/main
+	
+
+	
+
+

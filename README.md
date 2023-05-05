@@ -11,3 +11,5 @@ origin  ssh://git@github.com/erik-stormy/push_test.git (fetch)
 origin  ssh://git@github.com/erik-stormy/push_test.git (push)
 
 A možná hraje roli to, že naše knihovna je public.
+
+(stačí napsat git push, potom, co uděláme commit lokálně)
